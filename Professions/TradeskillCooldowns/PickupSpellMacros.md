@@ -27,6 +27,7 @@
 ### Secrets of Draenor Tailoring
 /run PickupSpell(176058)
 
+---
 
 # Engineering
 
@@ -42,6 +43,7 @@
 ### Gearspring Parts
 /run PickupSpell(169080)
 
+---
 
 # Enchanting
 
@@ -57,6 +59,7 @@
 ### Temporal Crystal
 /run PickupSpell(169092)
 
+---
 
 # Leatherworking
 
@@ -76,6 +79,7 @@
 ### Burnished Leather
 /run PickupSpell(171391)
 
+---
 
 # Jewelcrafting
 
@@ -91,6 +95,7 @@
 ### Taladite Crystal
 /run PickupSpell(170700)
 
+---
 
 # Blacksmithing
 
@@ -109,6 +114,7 @@
 ### Truesteel Ingot
 /run PickupSpell(171690)
 
+---
 
 # Inscription
 
@@ -122,6 +128,7 @@
 ### War Paints
 /run PickupSpell(169081)
 
+---
 
 # Alchemy
 
