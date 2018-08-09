@@ -150,7 +150,6 @@
 /run PickupSpell(175880)
 ### Alchemical Catalyst
 /run PickupSpell(156587)
-/run PickupSpell(168042)
 ### Transmute: Savage Blood
 /run PickupSpell(181643)
 ### Transmute: Transmute: Sorcerous Air to Earth
