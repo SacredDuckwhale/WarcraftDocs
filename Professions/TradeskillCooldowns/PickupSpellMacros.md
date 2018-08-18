@@ -175,4 +175,25 @@
 ### Transmute: Fish to Gems
 /run PickupSpell(213254)
 
+## BFA
+
+### Transmute: Herbs to Ore
+/run PickupSpell(251305)
+### Transmute: Transmute: Herbs to Cloth
+/run PickupSpell(251306)
+### Transmute: Transmute: Ore to Herbs
+/run PickupSpell(251309)
+### Transmute: Transmute: Ore to Cloth
+/run PickupSpell(251310)
+### Transmute: Transmute: Ore to Gems
+/run PickupSpell(251311)
+### Transmute: Transmute: Cloth to Skins
+/run PickupSpell(251314)
+### Transmute: Transmute: Meat to Pet
+/run PickupSpell(251808)
+### Transmute: Transmute: Fish to Gems
+/run PickupSpell(251822)
+### Transmute: Transmute: Expulsom
+/run PickupSpell(251832)
+
 
