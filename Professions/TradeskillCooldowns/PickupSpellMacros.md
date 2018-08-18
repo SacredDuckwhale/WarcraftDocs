@@ -162,6 +162,12 @@
 
 ## LEGION
 
+### Wild Transmutation (R1)
+/run PickupSpell(188800)
+### Wild Transmutation (R2)
+/run PickupSpell(188801)
+### Wild Transmutation (R3)
+/run PickupSpell(188802)
 ### Transmute: Meat to Pet
 /run PickupSpell(213256)
 ### Transmute: Cloth to Herbs
